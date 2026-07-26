@@ -1,0 +1,10 @@
+# Credentials and local MCP state
+.env
+.env.*
+!.env.example
+service-keys/
+sessions/
+
+# Local workspace files
+outputs/
+work/
