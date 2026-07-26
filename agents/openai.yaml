@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCP ABAP ADT"
+  short_description: "SAP ABAP ADT MCP setup and safe usage."
+  default_prompt: "Use $mcp-abap-adt to configure a safe read-only SAP ABAP ADT MCP connection."
